@@ -1,0 +1,14 @@
+CVPR2018_going/
+CVPR2018/
+*.sh
+*.ipynb
+*.pyc
+*.swp
+*.ipynb_checkpoints
+*.json
+*.pth.tar
+*.pkl
+temp/
+vocab/
+runs/
+jupyter/
